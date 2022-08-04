@@ -1,1 +1,1 @@
-{"name":"Demo-Portfolio","short_name":"Demo-Portfolio","start_url":"/","display":"standalone","theme_color":"#e85a4f","background_color":"#e85a4f","icons":[{"src":"assets/icons/512x512.png","sizes":"512x512","type":"image/png"}]}
+{"name":"Portfolio","short_name":"Portfolio","start_url":"/","display":"standalone","theme_color":"#b22b35","background_color":"#b22b35","icons":[{"src":"assets/icons/512x512.png","sizes":"512x512","type":"image/png"}]}
